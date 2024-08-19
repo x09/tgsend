@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="tgsend.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="tgsend"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="758"/>
+        <CursorPos X="20" Y="774"/>
+        <UsageCount Value="98"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="/usr/share/fpcsrc/packages/fcl-base/src/custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="16" Y="61"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../../../Загрузки/synapse/source/lib/ssl_openssl_lib.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1723"/>
+        <CursorPos X="64" Y="1745"/>
+        <UsageCount Value="3"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../../../Загрузки/synapse/source/lib/httpsend.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="381"/>
+        <CursorPos X="3" Y="386"/>
+        <UsageCount Value="40"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../../Загрузки/synapse/source/lib/synautil.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1049"/>
+        <CursorPos X="24" Y="1054"/>
+        <UsageCount Value="6"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../../Загрузки/synapse/source/lib/mimepart.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1112"/>
+        <CursorPos X="36" Y="1108"/>
+        <UsageCount Value="13"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="482" Column="17" TopLine="493"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="644" Column="12" TopLine="604"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="4" Column="45"/>
+      </Position3>
+      <Position4>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="13" Column="31" TopLine="91"/>
+      </Position4>
+      <Position5>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="756" Column="37" TopLine="720"/>
+      </Position5>
+      <Position6>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="40" Column="27" TopLine="822"/>
+      </Position6>
+      <Position7>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="14" Column="80"/>
+      </Position7>
+      <Position8>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="697" Column="82" TopLine="709"/>
+      </Position8>
+      <Position9>
+        <Filename Value="tgsend.lpr"/>
+        <Caret Line="774" Column="19" TopLine="745"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="4">
+      <Item1>
+        <Expression Value="optArr[2]"/>
+      </Item1>
+      <Item2>
+        <Expression Value=" optArr[0]"/>
+      </Item2>
+      <Item3>
+        <Expression Value="Data"/>
+      </Item3>
+      <Item4>
+        <Expression Value="req"/>
+      </Item4>
+    </Watches>
+  </Debugging>
+</CONFIG>
