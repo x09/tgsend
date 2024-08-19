@@ -50,3 +50,5 @@ tgsend -t '12345:AAABBBCCCDDDEEEEFFFF' --chatId='12345' -V -f /tmp/sample.ogg -C
 
 All question welcome to: Anton Shevtsov <shevtsov.anton[ at ]gmail.com>
 
+----
+RPM, RPMS для ОС Альт - http://altrepo.ru/
